@@ -1,0 +1,14 @@
+## Hello! ✌
+
+My name is Reymer, I'm from Dominican Republic and I'm a DevOps
+
+## SKILLS
+
+* Using Docker, Terraform and AWS in a practical way
+* Special skills and experience in Technical Support
+* Critical thinking, decision-making and problem solving skills
+* Some Bash scripting
+
+## CONTACT
+
+Find all of my info and resume in LinkedIn [website](https://www.linkedin.com/in/reymer-steven-garcia-acevedo-2412bb187/) or my studies in Udemy Profile [website](https://www.udemy.com/user/reymer-garcia-acevedo/)
