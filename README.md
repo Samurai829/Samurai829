@@ -14,4 +14,4 @@ I’m interested in:
 
 ## CONTACT ☎
 
-Find all of my info and resume in LinkedIn [website](https://www.linkedin.com/in/reymer-steven-garcia-acevedo-2412bb187/) or my studies in Udemy Profile [website](https://www.udemy.com/user/reymer-garcia-acevedo/)
+Find all of my info and resume in [LinkedIn](https://www.linkedin.com/in/reymer-steven-garcia-acevedo-2412bb187/) or my studies in [Udemy](https://www.udemy.com/user/reymer-garcia-acevedo/) [My Website](https://samurai829.github.io/inicio/)
