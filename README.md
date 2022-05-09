@@ -7,7 +7,8 @@ I’m interested in:
 
 ## SKILLS ✔
 
-* Using Docker, Terraform, Azure DevOps and AWS in a practical way
+* Using Docker, Kubernetes, Terraform, Azure DevOps and AWS in a practical way
+* Git, knowledge in CI/CD within the following tools GitLab and GitHub Actions
 * Special skills and experience in Technical Support
 * Critical thinking, decision-making and problem solving skills
 * Some Bash scripting
