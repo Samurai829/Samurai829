@@ -1,6 +1,8 @@
 ## Hello! ✌
 
-My name is Reymer, I'm from Dominican Republic and I'm a DevOps Engineer 🐱‍🏍
+My name is Reymer, I'm from Dominican Republic and I'm a SRE Engineer 🐱‍🏍
+I have advanced knowledge in DevOps culture and its fundamentals.
+
 I’m interested in:
 - 🌱 learn new skills
 - 💞️ I’m looking to collaborate on diferent enterprise
